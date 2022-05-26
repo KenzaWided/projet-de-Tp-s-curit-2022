@@ -1,0 +1,394 @@
+,Date,User,Tweet
+0,2021-12-31 23:56:28+00:00,tjb_dev,"i get so frustrated with #python every time i want to learn it + django. 
+
+virtualenv, pyenv, pyenv virtualenv (this is a thing ig?) 
+
+like why cant there be something like rbenv or sdkman that is at community standard for switching versions? 
+
+am i just dumb or...?"
+1,2021-12-31 23:50:01+00:00,DD_FaFa_,Fraud Detection in Python. Learn how to detect fraud using Python https://t.co/xUuVMRuGE2 #python #fraud #detection
+2,2021-12-31 23:49:50+00:00,IainLJBrown,"2021's Top Stories About AI - IEEE Spectrum
+
+Read more here: https://t.co/LwOywkMWAn
+
+#ArtificialIntelligence #AI #DataScience #100DaysOfCode #Python #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT"
+3,2021-12-31 23:49:09+00:00,malo21st,"Pythonメモ
+
+pandasのインポートついでに、
+
+pd.options.plotting.backend = ""plotly""
+
+と１行追加するだけで、味気ない df.plot に彩が加わりますよ。
+
+#Python #pandas #plotly #データ可視化
+
+【この記事、もっと評価されるべき】
+pandas×plotlyで楽々可視化 https://t.co/qM5B7YV6UE #Qiita https://t.co/jUA7kW7ELE"
+4,2021-12-31 23:48:03+00:00,miyashin_prg,"PythonでWebブラウザを自動操作する方法をご紹介します☺
+僕の場合は「ログイン→パスワード入力→ボタンクリック」の繰り返し作業を自動化していました😁
+サンプルコード付きです🤗
+#Python
+#駆け出しエンジニアと繋がりたい
+#プログラミング初心者
+#今日の積み上げ 
+#朝活 https://t.co/ZtnuGi3xMK"
+5,2021-12-31 23:45:28+00:00,keiji_dl,"休日朝の #numpy
+    問：
+    二次元のガウスカーネル配列を生成せよ。
+    解：
+    添付の通り。
+    #Python
+    #プログラミング
+    #今日の積み上げ
+    #駆け出しエンジニアと繋がりたい https://t.co/aJhBrsizNB"
+6,2021-12-31 23:45:12+00:00,investortat,"PythonでSUUMOをスクレイピングして賃貸物件情報を収集する方法について解説しました
+
+短いコードでスクレイピングできてしまうPythonはやっぱり最強です
+
+初心者でも学びやすい言語なのでオススメです
+#駆け出しエンジニアと繋がりたい #Python #プログラミング初心者 
+https://t.co/2sWPb3zSoE"
+7,2021-12-31 23:45:08+00:00,earaspi,This Hours Photo: #weather #minnesota #photo #raspberrypi #python https://t.co/QwKzISC1Ur
+8,2021-12-31 23:44:39+00:00,0g1iPOHDHaYBY67,"参考書をいちど見てみるのもいいかもしれません｜https://t.co/rpGTWJgQxD
+#G検定 #ディープラーニング #AI #人工知能 #資格 #Python
+2022-01-01 08:44:39.936791"
+9,2021-12-31 23:42:08+00:00,Datascience__,"Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition https://t.co/30bUZfQL2U  #Python #ad"
+10,2021-12-31 23:40:03+00:00,vapeafond,Python: How can I rename a conda environment? - #python - #anaconda - #conda  - Answer link : https://t.co/khzNA9nAeS https://t.co/X3Ubm7ko3w
+11,2021-12-31 23:39:08+00:00,Wakedxy1,"Bonne année 2022!
+#2022 #HAPPYNEWYEAR #Python https://t.co/m5gOVPWZ1q"
+12,2021-12-31 23:32:57+00:00,f_dion,"@ArtofWarm You are not going to like this, but there is a valid use for ; in #python. It is to prevent return values to display in a notebook cell (only needed for the last call in a cell)."
+13,2021-12-31 23:31:06+00:00,pihole_fosser,"I am a #RaspberryPi #Python scripted bot
+This is my daily #Pihole report:
+
+Ads Blocked: 8417
+Ads Percentage Today: 50 %
+DNS Queries Today: 16531
+Domains Blocked: 444895
+
+Time and date: 05:01 01-01-2022"
+14,2021-12-31 23:30:48+00:00,DD_Jessica_,Introduction to Python for Finance. This course introduces Python for financial analysis https://t.co/Ef2ISLmCmD #python #statistical #thinking
+15,2021-12-31 23:30:18+00:00,malo21st,"なぜか福岡県のオープンデータから交通事故のデータ５年分を合体させて、発生件数をグラフにしてみた。
+
+コロナ禍やロックダウンで極端な減少が印象的ですが、コロナ禍の前から減少傾向が伺えることはいいことですね。
+
+それにしてもPandasの扱いがうまくなってきたな～。
+
+#pandas #Python #交通事故 https://t.co/6cV6pUwyPv"
+16,2021-12-31 23:30:04+00:00,DolfinWX,"Weather in my area.
+Last updated: 12/31/2021 12:53 HST
+Current Conditions: Cloudy
+Temp: 78.08°F
+Dewpoint: 71.06°F
+Humidity: 79%
+Feels Like: 79°F
+Wind: SSE 57.98 MPH
+Barometer: 29.82""
+Visibility: 10.0 Mi
+Forecast Zone: PHJR
+
+#Python 
+#RaspberryPi
+
+PythonAPRS v1.3.2"
+17,2021-12-31 23:29:54+00:00,kausarat_g,"I only see my goals.... I don't believe in failure✊✊ Happy New year
+#Python  #webdeveloper  #HAPPYNEWYEAR2022 https://t.co/s6vF9V74E3"
+18,2021-12-31 23:27:33+00:00,CoolerData,Nine Rules for Writing Python Extensions in Rust https://t.co/bY5HzbEczf #WeWantData #Data #Insights #MachineLearning #Cloud #ComputerVision #Analysis #Python https://t.co/TZMlsij972
+19,2021-12-31 23:26:04+00:00,javascriptworks,"Remote (Senior) Software Engineer $145K - 185K + Equity
+
+Check out this role working with Java, Javascript &amp; Python
+
+#remotework #remotejobs #java #javascript #python
+
+https://t.co/wPLpJ6UWxg"
+20,2021-12-31 23:26:04+00:00,DrMattCrowson,RT Nine Rules for Writing Python Extensions in Rust https://t.co/IcJmkBHqua #programming #rust #parallelcomputing #python #bioinformatics https://t.co/HXOaFoDwvT
+21,2021-12-31 23:25:03+00:00,jyagaimotarokun,"twitterとcoincheckのAPIを使って、
+最新の仮想通貨レートをpythonからtweetしてみます。＃Python＃API
+BTC  : 5326695.0 yen
+ETH  : 423312.45165yen
+LTC  : 16822.27996825yen
+XRP  : 95.28275721yen"
+22,2021-12-31 23:23:12+00:00,umashree19,"wish=[2,2,0,2,'*','R','A','E','Y','*','W','E','N','*','Y','P','P','A','H']
+for i in range(-1,-20,-1):
+    print(wish[i])
+
+#Python #NewYear2022"
+23,2021-12-31 23:22:20+00:00,uUMNxCMLQzlgpJg,"元旦ですが、平日と変わらず学習進める。
+Pythonの正規表現。かなりややこしいけどスクレイピングに便利な技術だそう。頑張る。
+
+ #プログラミング初心者 
+ #Python
+ #テックアカデミー"
+24,2021-12-31 23:22:01+00:00,miyashin_prg,"LOTO6の過去の当選結果から次を予想するAIを作りました😀
+遊び・スキルアップ・一攫千金のチャンスを同時にゲットです😆✨サンプルコード付きですのでコピペしてお使いください👍✨
+#Python
+#駆け出しエンジニアと繋がりたい
+#プログラミング初心者
+#今日の積み上げ
+#朝活  https://t.co/wqw1mb9VAq"
+25,2021-12-31 23:20:04+00:00,Java_workshub,"Build Software for Sales Teams Who Slack 
+
+Remote (Senior) Software Engineer, $145K - 185K + Equity
+
+#remotework #remotejobs #java #javascript #python
+
+https://t.co/VFb9TQlUhn"
+26,2021-12-31 23:20:03+00:00,Remote_Works_,"Check out Troops
+
+They're looking for a Remote (Senior) Software Engineer and offering $145K - 185K + Equity
+
+#remotework #remotejobs #java #javascript #python
+
+https://t.co/LLzDsjAxXj"
+27,2021-12-31 23:20:00+00:00,FrameworksM,"Gunicorn #Python #WSGI
+Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX.
+
+https://t.co/YaIXX9foEF"
+28,2021-12-31 23:18:03+00:00,FreelanceJobRSS,#Linux #Python Write a script or execution file to automate changing files path directory: Write a script or execution file that could be run on Linux and window to do the following.  Create a loop to go through all the (.xml)… https://t.co/0LbyEtxTvJ Click Link to Apply
+29,2021-12-31 23:17:06+00:00,python_works,"Remote (Senior) Software Engineer
+
+$145K - 185K + Equity
+
+Do you want to make work easier for millions of people.
+
+#remotework #remotejobs #java #javascript #python
+
+https://t.co/n3PXXTEq0a"
+30,2021-12-31 23:15:43+00:00,Aavalar,"Aavalar has been contracted to provide a Manufacturing Execution Systems Engineer for full time direct Employment.  Apply now!
+https://t.co/PU5O96eypb
+#manufacturingengineering #rockwellautomation #manufacturingexecutionsystem #python"
+31,2021-12-31 23:15:33+00:00,cardseers,#Linux #Python #Tensorflow Write a script or execution file to automate changing files path directory: Write a script or execution file that could be run on Linux and window to do the following.  Create a loop to go through all the (.xml) files… https://t.co/tSBDLqC0Yh
+32,2021-12-31 23:15:11+00:00,kikeledesmanet,"New in Visual Studio Code v1.63: Theme Previewing, Notebook Improvements, More
+https://t.co/xCPl8vTFax
+#Devs #VisualStudioCode #VSCode #dotNET #Python #Java"
+33,2021-12-31 23:15:03+00:00,Functionalworks,"Build Software for Sales Teams Who Slack
+
+Check out this Remote (Senior) Software Engineer role working with Java, Javascript &amp; Python
+
+#remotework #remotejobs #java #javascript #python
+
+https://t.co/OAlVTqYWzo"
+34,2021-12-31 23:11:04+00:00,DrMattCrowson,RT 6 Helpful Tips for Acing Your Data Science Interview https://t.co/R0vLAuIOtd #programming #coding #datascientist #datascience #python https://t.co/hs9w28DNCl
+35,2021-12-31 23:05:15+00:00,ravishingravism,"#programming #languages 
+
+Which programming languages is the best?
+
+How to choose the best programming language?
+
+With this list of Top 5 Programming Languages to Learn in 2021
+
+#program #programmer #languagelearning #java #javascript #python #Swift 
+
+https://t.co/B3EXWfCxk3"
+36,2021-12-31 23:04:38+00:00,0g1iPOHDHaYBY67,"頻出問題を「Ｇ検定攻略ガイド」の無料問題集で公開中！｜G検定攻略ガイドnote https://t.co/jcE9wv7Xmz
+#G検定 #ディープラーニング #AI #人工知能 #資格 #Python
+2022-01-01 08:04:39.724865"
+37,2021-12-31 23:02:05+00:00,ScrapeHero,Stock Market data? Get stock prices for #ticker symbols  #tutorial #python https://t.co/dktmgMQuAT
+38,2021-12-31 23:01:26+00:00,uhiiman,"#うひーメモ
+投稿時間:2022-01-01 08:01:25
+最寄りのバス停にバスがあと何分で着くかだけを表示するミニサイネージ（M5Stack、UIFlow）
+https://t.co/bw21HMTSb4
+#python"
+39,2021-12-31 23:01:20+00:00,Python4Fun,You'll see how easy it is to integrate #OpenSCAD with #Python such that you'll see results instantly on your screen when your Python code runs. #SuperFun https://t.co/Ww3PUnBEet #3D-printing #amazon @Agatorbites
+40,2021-12-31 23:01:16+00:00,Python4Fun,"By creating an interpretive #Python syntax layer that translates to #OpenSCAD, these and several other unique issues are eliminated or minimized. ---&gt; https://t.co/Ww3PUnBEet #3DPrint #amazon #DownloadablePythonCode https://t.co/Ut34RhdsgU"
+41,2021-12-31 23:00:41+00:00,StudyDataSci,"Both #R and #Python are used for #data science. In this guide, you'll learn how R and Python compare. https://t.co/abbGCyXBzl"
+42,2021-12-31 23:00:31+00:00,pythonbot_,"Python Programming: An Introduction to Computer Science, 3rd Ed. https://t.co/yHnfhuWuQj  #Python #ad"
+43,2021-12-31 23:00:12+00:00,DigitalAcademyy,"📺 How to Write your 1st Python Program (and Save your Script)? [VIDEO]
+
+#python #developer #programming #100DaysOfCode
+
+https://t.co/09056mMzil"
+44,2021-12-31 23:00:12+00:00,shima_farm,ラズベリーパイより、1月1日8時0分の空模様と気温 -18.312℃ #raspberrypi #python #fswebcam #photo #北海道 #オホーツク #イマソラ https://t.co/QxwfteLr5l
+45,2021-12-31 23:00:03+00:00,WilfridBlanc,I wrote a replacement for Pyrasite to inject code into #Python processes on Kubernetes https://t.co/dKsL0aoPTg
+46,2021-12-31 23:00:00+00:00,stephenangelico,"Queue all the jokes about ""I haven't done x all year"" but I prefer to think of it as starting on my New Year's Resolution right away with coding! Happy New Year!
+https://t.co/vR9I2NGWIh
+#Twitch #Live #RaspberryPi #Python #electronics"
+47,2021-12-31 22:57:59+00:00,SotchF,"Comment, stackoverflow, indentation are the tools I used the most at 2021 for debugging codes. 
+#javascript 
+#python
+#100DaysOfCode 
+#coding"
+48,2021-12-31 22:56:48+00:00,NftMedi,"Do Androids Dream?
+An #animated #AI 1:1 #NFT
+2 $ETH
+
+#python #NFTdrop #NFTartist #rtitbot #art #twitme #Ethereum
+
+https://t.co/s61GyrmU0a https://t.co/LWdtrwamXF"
+49,2021-12-31 22:53:42+00:00,RODRIMARLON98,"Este año fue maravilloso, miro hacia atrás y no puedo creer todo lo que aprendí crecí y cambie mi manera de pensar.
+
+Este 2022 me está haciendo ojitos y creo que va ser aún mejor.
+
+#backend #Web #Python"
+50,2021-12-31 22:52:14+00:00,96nekokurosuke,"おはようございます🐈‍⬛
+新年明けました！　本年もよろしくお願いいたしますー🎍
+今年もコツコツ勉強していきたいと思います
+今日も朝活はじめます
+#朝活 #ITストラテジスト #Python"
+51,2021-12-31 22:51:31+00:00,WhatsGig,"What do you want to learn in 2022?
+
+#javascript 
+#Java 
+#Python 
+#HTML 
+#CSS"
+52,2021-12-31 22:48:47+00:00,DD_Wen_,"Financial Trading in Python. Learn to implement custom trading strategies in Python, backtest them, and evaluate their performance https://t.co/qGVfME2eyN #python #finance #trading"
+53,2021-12-31 22:47:35+00:00,DoomsdaySisters,"A New Year Has Dawned.
+See you soon, #FutureShock.
+#MelbourneAustralia
+#DoomsdaySisters #DreamCrushers #LadyBeast #Python #TheMatriarchy #AussieStrongTriumvirate 😈🇦🇺💪🏻👊🏻 https://t.co/Kgp47k0GLV"
+54,2021-12-31 22:45:09+00:00,earaspi,This Hours Photo: #weather #minnesota #photo #raspberrypi #python https://t.co/fmxhJziqTT
+55,2021-12-31 22:42:44+00:00,zobjobsCA,"Web Developer, F/E w Python and Django
+from Procom Consultants Group Ltd
+#Python #jobs
+https://t.co/GeazuIVp4T"
+56,2021-12-31 22:42:25+00:00,rasangarocks,"Python Programming Bible for Beginners
+
+Link - https://t.co/kFycnD3hEY
+
+#Python #100DaysOfCode #CodeNewbies #WomenWhoCode #DEVCommunity #DevOps #code #Coding #LearnToCode #DataAnalytics #DataScience #MachineLearning #ML #AI #programming"
+57,2021-12-31 22:42:00+00:00,dataelixir,"pytudes - a collection of Python programs, usually short, for perfecting particular programming skills by Peter Norvig https://t.co/VIKhellCSh #python"
+58,2021-12-31 22:41:00+00:00,DD_FaFa_,"Recurrent Neural Networks for Language Modeling in Python. Use RNNs to classify text sentiment, generate sentences, and translate text between languages https://t.co/REe9RDdzSy #neuralnetworks #python #RNNs"
+59,2021-12-31 22:40:02+00:00,vapeafond,Flask: Raise 404 if Flask catch-all route starts with prefix - #python - #flask  - Answer link : https://t.co/sJocc95ty8 https://t.co/9IDEaVY18V
+60,2021-12-31 22:37:10+00:00,pythonbot_,"Natural Language Processing in Action: Understanding, analyzing, and generating text with Python https://t.co/pSREnLNMUT  #Python #ad"
+61,2021-12-31 22:36:42+00:00,IslahF__,One of my 2022 goals being to solve 100 leetcode questions is killing me🤣 can’t even solve the easiest level without copying and pasting the answer #Python #BlackTechTwitter
+62,2021-12-31 22:36:30+00:00,maechan40around,"「いつまで準備しているんだ、早く実践に生かせ」
+という声が聞こえてきそうだ
+
+#python #毎日の積み上げ 
+
+@3Q7Kz6Di25rSTAx #note https://t.co/zvrrHuCGpK"
+63,2021-12-31 22:36:21+00:00,rasangarocks,"Python One-Liners: Write Concise, Eloquent Python Like a Professional
+
+Link - https://t.co/7odLorHIVQ
+
+#Python #100DaysOfCode #CodeNewbies #WomenWhoCode #DEVCommunity #DevOps #code #Coding #LearnToCode #DataAnalytics #DataScience #MachineLearning #ML #AI #programming"
+64,2021-12-31 22:31:23+00:00,sotongshi,"1分おきに更新するようにした
+#熊本 #MaaS #M5Stack #UIFlow #Python #AWS #Lambda https://t.co/XCLwFPGsZE"
+65,2021-12-31 22:31:06+00:00,pihole_fosser,"I am a #RaspberryPi #Python scripted bot
+This is my daily #Pihole report:
+
+Ads Blocked: 8414
+Ads Percentage Today: 50 %
+DNS Queries Today: 16524
+Domains Blocked: 444895
+
+Time and date: 04:01 01-01-2022"
+66,2021-12-31 22:31:01+00:00,PythonJobsFeed,"Jefferson Frank is looking for a Data Engineer
+https://t.co/Hjxhj1yMXq Atlanta, GA, United States
+( Python  Cloud ) 
+#coding #Python"
+67,2021-12-31 22:30:34+00:00,codificandobits,"En la lección de hoy veremos la sentencia while, que permite ejecutar una porción de código de forma repetitiva siempre y cuando se cumpla cierta condición. Las notas de clase:
+
+https://t.co/9BSbRruPe0
+
+#Python #aprenderaprogramar #pythonlearning #aprender #curso #programacion"
+68,2021-12-31 22:27:34+00:00,CoolerData,Preparation is key to AI success in 2022 https://t.co/Nc1xvdJo0x #WeWantData #Data #Insights #Python #Statistics #Database #Web #DeepLearning https://t.co/Dtwknolqk5
+69,2021-12-31 22:26:19+00:00,liontarakos,#7com1039 #ai #coding #python #machinelearning #TensorFlow #Collab #coding #coder https://t.co/U9q9pgeYXP
+70,2021-12-31 22:25:27+00:00,sotongshi,"最寄りのバス停にバスがあと何分で着くかだけを表示するミニサイネージ（M5Stack、UIFlow） https://t.co/TcB5dltPTv #Qiita @sotongshiより 
+#M5Stack #Python #AWS #Lambda #UIFlow"
+71,2021-12-31 22:24:42+00:00,tdawry,"The nice folks over at @adafruit sent me a cute pink Feather RP2040.
+
+Anyone have any experience visualizing probabilities with LEDs? #rstats #python @Raspberry_Pi"
+72,2021-12-31 22:24:38+00:00,0g1iPOHDHaYBY67,"【G検定受検者向け】問題集（黒本）の有効な使い方は？｜ https://t.co/DlKygr7sGT
+#G検定 #ディープラーニング #AI #人工知能 #資格 #Python
+2022-01-01 07:24:39.486681"
+73,2021-12-31 22:24:38+00:00,suzukaze_py,"「Pythonは初心者にも優しい」は嘘で、ちゃんと順を追って理解していかないとプログラミングは難しいです
+#プログラミング初心者 #Python"
+74,2021-12-31 22:23:30+00:00,jcbdotdev,"As this year winds to a close, I spent my work day writing #Python code 🐍 About what you wonder? A mix of webpages built using python, javascript &amp; Ajax. Later, I  wrote code leveraging Google and Apple wallet payments (all in python.) #Goodtimes 
+
+https://t.co/QzCggSDK69"
+75,2021-12-31 22:20:03+00:00,miyashin_prg,"Pythonだと関数と言いますが、VBScriptだとプロシージャという言い方をします。プログラミング初心者の方にもオススメのVBScriptの基本文法をご紹介します。
+#VBScript
+#駆け出しエンジニアと繋がりたい
+#プログラミング初心者と繋がりたい
+#Python 
+#朝活
+#今日の積み上げ 
+https://t.co/4oS7KGXekw"
+76,2021-12-31 22:20:03+00:00,vapeafond,Flask: Token based authentication with flask-security extension - #python-3.x - #flask - #restful-authentication - #flask-security  - Answer link : https://t.co/MwC8cZ32g4 https://t.co/zOxc55lHZY
+77,2021-12-31 22:18:10+00:00,okatakese,"明けましておめでとうございます🎍
+1/1 今年はさらなるSTEPUPを目指して頑張ります！何歳からでもチャレンジして、目標を持って取り組めば、達成できるってことを証明したいです💪今日も1日、やるぞー
+
+#勉強　#朝活　#応用情報技術者試験　#JavaGold #python  #駆け出しエンジニアと繋がりたい"
+78,2021-12-31 22:10:30+00:00,francisco_yira,"My first #AdventOfCode (Day 5) using #python and AWS SageMaker
+
+It's wasn't easy since 🐍 is not my strong language, but I managed to complete both parts and the code seems to be very efficient 😊
+
+https://t.co/AFq9ztUr3o https://t.co/SICTNBpZSt"
+79,2021-12-31 22:09:34+00:00,CircleCI,"Hungry for new #python tutorials? We're firing up s'more just for you 🏕️🍫🔥
+
+Grab a box of graham crackers and your appetite to learn about the power of using #Marshmallow to deserialize and serialize data and also carry out validation in @wawerruh's new demo 👇"
+80,2021-12-31 22:07:03+00:00,BaranGizagiza,"あけましておめでとうございます🌅
+
+#今日の積み上げ 572日目
+
+#読書 幸福の資本論
+#筋トレ #ランニング 未測定
+#Python #probsace 
+#CodingChallenge 
+
+今日も積み上げて、スタートダッシュしていきます😁
+
+🐢さん（@usdatascientist ）のコミュ課題から取り組みます👍"
+81,2021-12-31 22:06:00+00:00,Outofmemory18,"Whats your plan for this year's learning?
+
+Mine is to learn 
+🧑‍💻 Python
+🧑‍💻 Machine Learning
+🧑‍💻 Read more books
+
+#Python #learn #2022Goals"
+82,2021-12-31 22:05:12+00:00,marcusdeanadams,"The #youtube-dl project finally published an update recently, so I've updated my #python frontend.
+
+You can download it here: https://t.co/hEavFbdkeO
+
+If you'd like to view the source code without downloading anything, you can do so here: https://t.co/sIkib1aLlE"
+83,2021-12-31 22:04:04+00:00,miyashin_prg,"スマホカメラの超広角レンズで撮影した写真をOpenCVを使って歪み補正してみました☺
+サンプルコードも載せていますので是非是非トライしてみてくださいね🤗
+#Python 
+#プログラミング勉強中 
+#プログラミング独学 
+#プログラミング初心者 
+#今日の積み上げ 
+#opencv 
+ https://t.co/geKGh2sW4Y"
+84,2021-12-31 22:02:51+00:00,opsmatters_uk,"The latest update for #Integrateio includes ""Connecting to MySQL With #Python"" and ""Redshift vs Snowflake: 6 Key Differences"".
+ 
+#ETL #BigData #DataAnalytics #DataPipelines https://t.co/WRn9KiO0tJ"
+85,2021-12-31 22:01:58+00:00,uhiiman,"#うひーメモ
+投稿時間:2022-01-01 07:01:57
+Focus
+https://t.co/ymmRVKimns
+#python"
+86,2021-12-31 22:01:36+00:00,PycraftDev,"... The work today was on the documentation, I'm really getting through that now and am on to the game engine now! Expect more progress tomorrow! You can find Pycraft here: https://t.co/pRZzN5GQ6B and with thanks to: #python3 #developers #DEVCommunity #coding #gamedev #Python"
+87,2021-12-31 22:00:44+00:00,zobjobsGB,"Senior Python Engineer
+from Woodrow Mercer Group
+#Python #workfromanywhere
+https://t.co/jK1x7RKBaU"
+88,2021-12-31 22:00:26+00:00,3PySci_Nori,【バックナンバー】 Pythonで2軸グラフ表示 #Matplotlib 〜X軸もY軸も2本のグラフを表示: twinx、twiny〜 https://t.co/wZZy93Qt4x #python #プログラミング
+89,2021-12-31 22:00:06+00:00,mentesliberadas,"Aprende a programar en #Python con este curso online de la Universidad Austral en #Coursera
+
+https://t.co/gr2xPJlykk
+
+#programación #cursos #cursosonline https://t.co/vXn6PUqKbw"
+90,2021-12-31 21:59:41+00:00,pythonbot_,Python All-in-One For Dummies (For Dummies (Computer/Tech)) https://t.co/yP3iVrTzqI  #Python #ad
+91,2021-12-31 21:59:01+00:00,quantum_input,"LG’s New OLED TVs Will Use Chemistry and Machine Learning for Brighter, Crisper Picture Quality https://t.co/0roTNg4gN4 #AI #MachineLearning #Smarthome #Python"
+92,2021-12-31 21:53:59+00:00,rasangarocks,"Python Programming: An Introduction to Computer Science 
+
+Link - https://t.co/ZFGdpqxPeb
+
+#Python #100DaysOfCode #CodeNewbies #WomenWhoCode #DEVCommunity #DevOps #Coding #LearnToCode #DataAnalytics #DataScience #ML #AI #SoftwareEngineering #computerscience #programming"
+93,2021-12-31 21:51:54+00:00,alantucker,I actually like coding scripts that web scrape and automate things #Python
+94,2021-12-31 21:50:04+00:00,gp_pulipaka,"GHOST: Handle Imbalanced Data in #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode 
+https://t.co/vPjUtyNe0s https://t.co/7nPu26Kdeh"
+95,2021-12-31 21:49:23+00:00,IainLJBrown,"What is Artificial Intelligence and why use it to look at public records? - Richland Source
+
+Read more here: https://t.co/pdYCEkgqsf
+
+#ArtificialIntelligence #AI #DataScience #100DaysOfCode #Python #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT"
+96,2021-12-31 21:48:57+00:00,nuthanreddyr,"Completed my Python Programming basics Now
+And got the certificate now need to enhance my skills on python
+#ProgrammingHub #Certificate #Python"
+97,2021-12-31 21:45:23+00:00,theremotemedic,Can anyone in the #coding or #developer realm recommend any good courses to get started in #Python or #javascript
+98,2021-12-31 21:45:09+00:00,earaspi,This Hours Photo: #weather #minnesota #photo #raspberrypi #python https://t.co/ko3vOkjhfd
+99,2021-12-31 21:45:04+00:00,Datascience__,Graph Machine Learning: Take graph data to the next level by applying machine learning techniques and algorithms https://t.co/i5cMPQtvok  #Python #ad

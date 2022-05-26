@@ -1,0 +1,344 @@
+,Date,User,Tweet
+0,2021-12-31 20:01:29+00:00,eriktrend,Count Number of Word Occurrences in List Python https://t.co/XbOs93lDWx #sourcecode
+1,2021-12-31 16:20:57+00:00,PythonLife_b,"Count Number of Word Occurrences in List Python (Stack Abuse)
+
+Counting the word frequency in a list element in Python is a relatively common task - especi...
+
+Add your highlights:
+https://t.co/5qMx1bARjb
+ #Python"
+2,2021-12-31 15:00:04+00:00,artyudin_nyc,"ListMethod clear() 
+remove all the elements from a list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/49A8mbmChP"
+3,2021-12-31 03:45:00+00:00,AnalyticsVidhya,"👉 Slicing first n elements from a list
+
+#Python #Lists https://t.co/j5PHWDHpoD"
+4,2021-12-30 23:11:31+00:00,Kenato254,"Day 67 of #100DaysOfCode 
+Covered;
+  - Security in Django (Cross Site Request Forgery Protection).
+  - Data Structures Circular Linked List. (Python &amp; JavaScript).
+  - Extra: Still on JavaScript Objects Notation.
+Happy Coding #django #python #javascript"
+5,2021-12-30 17:40:25+00:00,30secondsofcode,"spread: Flattens a list, by spreading its elements into a new list. #Python https://t.co/ikGeqVtcUm https://t.co/Gyp6Inezr4"
+6,2021-12-30 12:34:04+00:00,soiqbot,"Python compare two lists, if words match add to another list
+https://t.co/tQercjGRTB
+#python #python-3.x #if-statement #compare"
+7,2021-12-30 08:02:57+00:00,mjskay,"@StatsInTheWild It is not quite a data frame row b/c data frames are stored column-wise in R
+
+A tuple is an ordered, immutable* collection of heterogenous objects (optionally named, if you use namedtuple)
+
+In R this is a list():
+
+python: (1, ""a"", True)
+R: list(1, ""a"", TRUE)"
+8,2021-12-29 23:29:38+00:00,Kenato254,"Day 66 of #100DaysOfCode 
+Covered;
+  - Security in Django (Concluded on Cross-site scripting (XSS) protection).
+  - Data Structures Circular Linked List. (Python &amp; JavaScript).
+  - Extra: JavaScript Objects Notation.
+Happy Coding #django #python #javascript https://t.co/gckzieoADO"
+9,2021-12-29 21:55:20+00:00,JournalDev,Python Tutorial: 5 Easy Ways To Extract Elements From A Python List https://t.co/zYJzEULmtn #Python
+10,2021-12-29 20:51:33+00:00,BrdejDamian,"Selection sort #algorithm
+
+This algorithm is very simple - we search the list of items looking for the one with the highest value, then we copy it to the first index in the new list and remove this item from the old list. We repeat these steps until we have a sorted list.
+#python https://t.co/6LU3n5PiFO"
+11,2021-12-29 11:30:07+00:00,GetExcelsior,"The sort() is a built-in function in python. 
+for step by step video: https://t.co/Xt9yarnnSy
+
+#get_excelsior #sort #looplist #list #python #puthonbeginners #pythontutorial #pythonlearning #pythonguide #pythonloops https://t.co/FX6p50UTvw"
+12,2021-12-28 18:04:56+00:00,gurpreet_ds,"python pipe library:
+#3 traverse:Method can be used to recursively unfold iterables. 
+So you can use this method to turn a deeply nested list into a flat list.
+#Python #pythonprogramming #Python3 #pythonlearning #pythoncode #libraries #DataScience #programmingmemes  #programming https://t.co/fNEWMb8wan"
+13,2021-12-28 17:19:23+00:00,iamKierraD,"@igoby_Equality They list Python sure but I’ve held data analyst jobs that don’t require it. Actual usage is company specific so it’s not needed immediately.
+
+If you are learning sql, you’re gonna learn about databases.
+
+Jobs list 150 skills that they don’t use or know."
+14,2021-12-27 12:55:32+00:00,30secondsofcode,max_element_index: Returns the index of the element with the maximum value in a list. #Python https://t.co/oDcoPkmFOk https://t.co/4P0L1aPMtX
+15,2021-12-25 06:59:48+00:00,shrutisangwan2,Python list holds the ordered collection of items. We can store a sequence of items in a list. Python list is mutable.
+16,2021-12-24 17:00:51+00:00,realpython,Does NumPy Array Really Take Less Memory Than Python List? #python https://t.co/JsbfgnRD1K
+17,2021-12-24 16:30:52+00:00,SecurityJourney,"Catch up on the latest #AppSec news and subscribe to our YouTube channel. We offer resources that cover the OWASP 2021 list, Python, Ruby along with many other additional languages! https://t.co/bHcwvggDKO 
+
+#SecurityJourney #YouTube #Subscribe #CyberSecurity #AppSecNews https://t.co/kAegxYUNhK"
+18,2021-12-24 15:00:05+00:00,artyudin_nyc,"Keyword shuffle 
+randomize items of a list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/YFAKe1kcrm"
+19,2021-12-24 12:50:32+00:00,30secondsofcode,unique_elements: Returns the unique elements in a given list. #Python https://t.co/GxePQHJE0Z https://t.co/MePTNiAW5W
+20,2021-12-23 14:18:38+00:00,_notadarsh,"Day 9 : #100DaysOfCode    
+#leetcode Problem 19. Remove Nth Node From End of List | #Python https://t.co/oxcNmFKqO7 https://t.co/CsngrVjzpq"
+21,2021-12-23 05:00:04+00:00,artyudin_nyc,"ListMethod copy() 
+return a copy of specified list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/ua7dP2i0nk"
+22,2021-12-22 17:03:09+00:00,MarieKremer3,@professeur_b J'ai aussi coupé les 3 dimensions en suivant à peu près cette règle mais ça me donne 1600 x 1600 x 1600 cases. Ca dépase la taille d'une list python du coup j'ai dû feinter un peu mais ça reste énorme... Je vais essayer d'améliorer
+23,2021-12-22 07:45:02+00:00,j2logo,list #python – Listas en Python: El tipo #list y operaciones más comunes https://t.co/Uc8XKwNMH8 #básico
+24,2021-12-22 00:00:07+00:00,artyudin_nyc,"ListMethod clear() 
+remove all the elements from a list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/wFTeYS3jJv"
+25,2021-12-21 22:24:15+00:00,PostPCEra,"2021 top list
+
+Python libraries of 2021 : https://t.co/lgbmQPP5dW
+https://t.co/AjjZUlOU44
+spiceai :  ML in minutes instead of months , fast, iterative, inner development loop
+Kats : One stop shop for TS analysis in Python
+maro : RaaS platform for real-world resource optimization"
+26,2021-12-21 12:51:14+00:00,30secondsofcode,deep_flatten: Deep flattens a list. #Python https://t.co/cJ2VbNfdXd https://t.co/LgTMLyaUJl
+27,2021-12-19 19:00:29+00:00,pythonguides,Add string to list Python + Examples https://t.co/nriUeA30g2 via @pythonguides #Python #pythonprogramming
+28,2021-12-19 16:40:05+00:00,vapeafond,Python: Remove all occurrences of a value from a list? - #python - #list  - Answer link : https://t.co/Q2TK50DuzT https://t.co/If73jUr6Gj
+29,2021-12-19 04:41:14+00:00,Besttutorshelp1,Sort List Python E 1 D 2 C 3 B 4 5 5 B 4 C 3 D 2 E 1 Q13582067 https://t.co/mU1QkFBswg #order #customessays
+30,2021-12-18 17:38:55+00:00,30secondsofcode,min_element_index: Returns the index of the element with the minimum value in a list. #Python https://t.co/YKvDcrasfa https://t.co/zKGKfi3gaR
+31,2021-12-18 05:00:04+00:00,artyudin_nyc,"StringMethod split() 
+split string into list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/GNBtf6H3QI"
+32,2021-12-18 04:03:02+00:00,SimilarGeeks,Shuffle List Python https://t.co/k4rukzgKUe
+33,2021-12-18 03:33:59+00:00,SimilarGeeks,Select Random Element from List : Python https://t.co/8bNAm0oCNJ
+34,2021-12-17 05:00:04+00:00,artyudin_nyc,"ListMethod append() 
+add an element at the end of the list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/rxWoWjYRzt"
+35,2021-12-16 22:15:52+00:00,ai_summary,Tuple vs List #Python https://t.co/Bn16TcVHb8
+36,2021-12-16 17:00:10+00:00,DigitalAcademyy,"📺Add and Update Values from a Tuple in Python (Convert into List) - Python Tutorial for Beginners [VIDEO]
+
+#python #developer #programming #100DaysOfCode
+
+https://t.co/kpVlblqUi1"
+37,2021-12-16 13:00:26+00:00,bot_for_devs,"2. Sorting a List of lists by another list | Python 
+ 
+#python 
+ 
+https://t.co/ph9xEYebRN"
+38,2021-12-16 03:00:15+00:00,pythonguides,Check if a list exists in another list Python https://t.co/q3QQ5iOe6i via @pythonguides #Python #Python3
+39,2021-12-15 20:34:04+00:00,soiqbot,"How to build unique random couple from a single list
+https://t.co/44L6owp6Yt
+#python #random"
+40,2021-12-15 10:00:03+00:00,artyudin_nyc,"Keyword shuffle 
+randomize items of a list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/mnythmR2UQ"
+41,2021-12-14 02:32:45+00:00,Masarina002,"#リスト を元に #dataframe を作成する方法。
+
+リストってこんな感じだよね。
+list = [0,1,2]
+
+リストのリストは、こんな感じ。
+list_01 = [[a,b,c],[d,e,f],[g,h,i]]
+
+このリストのリストを使ってdataframeを作成するの。
+df = pd.DataFrame(list_01)
+
+(続く)
+#pandas #list #python"
+42,2021-12-13 10:00:03+00:00,artyudin_nyc,"StringMethod split() 
+split string into list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/Ip0yCOF0f1"
+43,2021-12-12 22:42:29+00:00,OjiTec,"Python基本構文の備忘録
+ファイルから文字列を読み出し
+with open('input.txt', 'r', encoding='utf-8') as fp:
+ tmp_list = fp.readlines()
+ out_list = []
+ for line in tmp_list:
+  out_list.append(line)
+ return out_list
+#Python #プログラミング"
+44,2021-12-12 18:48:30+00:00,OswinOswald223,"Writing up a prep sheet for an interview tomorrow and I'm talking about my array of Python projects..but instead of it being an array it's a list..
+
+#Python #softwaredevelopment"
+45,2021-12-11 20:00:03+00:00,artyudin_nyc,"ListMethod append() 
+add an element at the end of the list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/ZDdLacWXEb"
+46,2021-12-11 14:00:28+00:00,bot_for_devs,"10. Why does the original list change when I change the copied list (PYTHON) 
+ 
+#python 
+ 
+https://t.co/Bpfj9KbeHZ"
+47,2021-12-11 13:10:15+00:00,python_import,"Merge Excel cells to create a unique List - Python https://t.co/fSYhdp0zlT Hi, I have a folder full of excell sheets the lists needs to be merge into one and the tabs too. It should be a simple script to run on the computer.  Let me know if something is not clear (Budget: $10 -…"
+48,2021-12-10 20:00:04+00:00,vapeafond,Python: Sorting list based on values from another list - #python - #list - #sorting  - Answer link : https://t.co/aHpbs5NrMW https://t.co/Q5e2cysfF1
+49,2021-12-09 11:40:04+00:00,vapeafond,Python: How to find all occurrences of an element in a list - #python - #list - #numpy - #list-comprehension - #indices  - Answer link : https://t.co/R861vKwcUk https://t.co/yAXRrr7Unx
+50,2021-12-09 07:17:57+00:00,OmKrGupta,"The split() method splits a string into a list.
+
+#Python #pythonprogramming https://t.co/oenKhOeyq5"
+51,2021-12-09 05:00:03+00:00,artyudin_nyc,"StringMethod split() 
+split string into list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/s3IyPVlidH"
+52,2021-12-07 00:43:44+00:00,tipsfromit,"@DataIlm The correct answer is D. Because, Python is going to calculate the length of each element of the list.
+
+Python is going to find the minimum value based on the len() function."
+53,2021-12-06 10:00:03+00:00,artyudin_nyc,"ListMethod reverse() 
+reverse the order of the list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/Xkq0CQBgBH"
+54,2021-12-06 04:00:30+00:00,AnuragLodhi9,"Day 11 of #100DaysOfCode 
+Leetcode 206:Reverse Linked List
+#python #100DaysOfCode #javascript #cpp #problem_solving
+#hashing #faang
+Problem Statement: https://t.co/y6S2MpBvYX"
+55,2021-12-06 03:16:09+00:00,vegxcodes,"Python Series - Swapping 2 values, reverse a list 
+
+#python #learnpython #100Daysofcoding #DEVcommunity
+
+https://t.co/jadnkysBJf"
+56,2021-12-04 21:29:29+00:00,dimka_rs,"@KtoToChitaet Стоит глянуть
+ update-alternatives --list python
+Но не факт,что они там прописаны"
+57,2021-12-04 15:24:40+00:00,kagilinn,"個人的にとリストと言うと連結リストのイメージが強くて苦手な命名…まあC#のList,KotlinのList,Pythonのlistも動的配列で「巨大領域も現代では連続で取れる」「連続領域は最適化されやすい」「連続領域のコピーは高速」と案外不利になりがちな連結リストを単にリストと呼ぶ理由は薄いのかも知れない… https://t.co/W1iY2mLtr1"
+58,2021-12-03 15:00:05+00:00,artyudin_nyc,"ListMethod reverse() 
+reverse the order of the list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/szsVklfjJd"
+59,2021-12-03 14:48:14+00:00,hxdev,Just realized yesterday that I should be able to do some really cool asynchronous shit with aio.wait() as it doesn't halt coroutines that aren't finished in time; it just gives them back to you in a list #Python #asyncio
+60,2021-12-01 12:49:24+00:00,30secondsofcode,last: Returns the last element in a list. #Python https://t.co/145QrMh89i https://t.co/N2e6ZiRPbR
+61,2021-12-01 10:00:03+00:00,artyudin_nyc,"Keyword shuffle 
+randomize items of a list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/3PxYH0srLg"
+62,2021-12-01 08:36:14+00:00,30secondsofcode,deep_flatten: Deep flattens a list. #Python https://t.co/cJ2VbNfdXd https://t.co/HNRw5Zqxaz
+63,2021-11-30 05:00:04+00:00,artyudin_nyc,"DictionaryMethod values() 
+return a view object which contains the values of the dictionary as a list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/jRwFfmjukv"
+64,2021-11-29 21:45:13+00:00,devmlops,"3) In contrast, to evaluate whether an object is a member of a list, Python has to compare every single member for equality, i.e. the test is O(n)."
+65,2021-11-29 17:06:56+00:00,websketchtech,"Cyber Monday Deal -  Udemy
+
+All Courses: https://t.co/7QoNPzd9mn
+
+Top Trending List:https://t.co/fETYErTpml
+
+#Python #MachineLearning #DataScience #DataAnalytics #100DaysOfCode #CodeNewbies #tech #webdesign #Developer #CyberMonday #webdev #uiux #html #javascript #Azure #BigData https://t.co/MsWIpQmIrl"
+66,2021-11-27 17:10:40+00:00,SOHotQuestions,"Does NumPy array really take less memory than python list?
+
+https://t.co/NpRvbuTnBr
+
+#python #coding #programming #developer #numpy #memorymanagement #pythonprogramming #pythoncoding #learnpython https://t.co/B8nT6EWJd7"
+67,2021-11-26 18:05:19+00:00,yildirimelif,"For some reason, if you want to concatenate the reverse of your list to the existing list:  #python #list https://t.co/smpTDKrI5H"
+68,2021-11-26 11:01:20+00:00,Abdummajeed,"To add values to a list, python has append() &amp; insert() methods to execute that task but in different means.
+Thread 👇"
+69,2021-11-26 03:45:03+00:00,AnalyticsVidhya,"👉Tuple vs List 
+
+#Python #Tuple https://t.co/8UJ135CMtX"
+70,2021-11-26 01:35:16+00:00,suyasuya__neet,"・メモリ上にあるインスタンス？には全部クラスが設定されてる(int,float,list…)
+
+・Pythonはインスタンスのクラスを全部把握してるので、インスタンスを表す文の後にクラスのもつメソッドや属性を指定するとまたそれを呼び出してくれる
+
+なんかこの程度のことすら正しく認識できてなかった"
+71,2021-11-25 20:01:00+00:00,yujian_tang,"Super Simple Python is a series dedicated to projects you can do in under 15 minutes. Here we'll build a contacts list.
+
+#python #pythonprojects #easypython https://t.co/CjI34XvOUx"
+72,2021-11-25 17:37:20+00:00,30secondsofcode,min_element_index: Returns the index of the element with the minimum value in a list. #Python https://t.co/YKvDcrasfa https://t.co/drbtBlrQPm
+73,2021-11-25 10:49:16+00:00,quantatrisk,"#PythonForQuants TIP: Given a list, creating a DataFrame with index set to that list:
+
+my_list = ['a', 'b', 'c']
+df = pd.DataFrame(index=np.arange(len(my_list)))
+df.index = my_list
+
+#Python #Python3 #pythonprogramming #pandas #numpy"
+74,2021-11-23 20:16:17+00:00,forum_linux,Here's the latest Linux news How to Import CSV to List Python https://t.co/XZ024SQBgN
+75,2021-11-23 12:48:18+00:00,30secondsofcode,find_parity_outliers: Finds the items that are parity outliers in a given list. #Python https://t.co/9uUMnJbudV https://t.co/G8J7GzYBoJ
+76,2021-11-23 05:05:46+00:00,BhavikAgarwal13,"Python Program to Print First N Elements of a List
+
+https://t.co/r0NgUPT01f
+
+#Python #PythonProgram #coding #code #Bhavikagarwal #pythonproject #100DaysOfPython #100DaysOfCode #pythonprogramming #pythondeveloper #pythonprojects #pythonprograms #pythoncode #programming"
+77,2021-11-22 15:50:45+00:00,DataAugmented,"How to Import CSV to List Python
+https://t.co/Qudv5v1wcf
+A CSV is a file in which data is in the form of a tabular. We can convert the CSV to different data structures like a list, a list of tuples and a list of dictionaries. This article will discuss how to convert the csv file"
+78,2021-11-22 10:00:04+00:00,artyudin_nyc,"ListMethod extend() 
+add any iterable to the end of current list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/SVcuiWg2YA"
+79,2021-11-21 22:01:50+00:00,GTBlackEagle,@PilotObi Sign me up. You can add the list python and machine learning.
+80,2021-11-21 14:56:13+00:00,ImAbuSayed,Leetcode grind – Remove duplicates from a sorted linked list – Python Developer https://t.co/L98qrcus5h
+81,2021-11-21 09:31:20+00:00,mhaseebkamal,"Need to remove duplicates from a Python list?
+
+Python sets do not allow duplicate elements by default so by converting to a list to a set, duplicates get automatically removed.
+
+Here's how you would do it👇
+#Python https://t.co/jHCsih8353"
+82,2021-11-21 05:00:04+00:00,artyudin_nyc,"DictionaryMethod values() 
+return a view object which contains the values of the dictionary as a list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/sX4boVFlk6"
+83,2021-11-20 13:52:07+00:00,LubosKolouch,Shortest ever solution to Task 1 of Challenge 139 of #theweeklychallenge https://t.co/4aceCw4AGH : return input_list == sorted(input_list). #Python #coding @cpan_author
+84,2021-11-20 05:00:03+00:00,artyudin_nyc,"ListMethod extend() 
+add any iterable to the end of current list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/w6NbyLjt5k"
+85,2021-11-19 21:50:50+00:00,kearneymw,"How to cheat at data science in R or python: 
+#rstats: data |&gt; group_by(group) |&gt; summarise_all(list)
+
+#python: data . groupby(f""{group}"") . aggregate(list)"
+86,2021-11-19 14:09:08+00:00,DataIlm,"Fill the blank to check the element duplication in a list?
+def dcheck(list):
+ if len(list) == ________:
+   return True
+ else:
+   return False
+
+a) len(set(list))
+b) set(len(list))
+c) list[:]
+d) set(list[:])
+
+#Python #100DaysOfCode #Programming #Coding #Quiz"
+87,2021-11-19 05:00:03+00:00,artyudin_nyc,"ListMethod append() 
+add an element at the end of the list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/rqkxvV85U4"
+88,2021-11-17 05:00:03+00:00,artyudin_nyc,"ListMethod copy() 
+return a copy of specified list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/wY4gmebqda"
+89,2021-11-16 20:00:04+00:00,artyudin_nyc,"Keyword shuffle 
+randomize items of a list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/L3qmLmenu9"
+90,2021-11-16 15:45:00+00:00,AnalyticsVidhya,"👉Built-in methods in List
+
+#Python #List https://t.co/9lipmL62kj"
+91,2021-11-16 10:00:03+00:00,artyudin_nyc,"create a single string from all elements in a list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/1hVI0Y4sOe"
+92,2021-11-15 15:00:06+00:00,artyudin_nyc,"DictionaryMethod keys() 
+return a view object which contains the keys of the dictionary as a list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/zpmCBwDUlf"
+93,2021-11-14 20:00:04+00:00,artyudin_nyc,"DictionaryMethod values() 
+return a view object which contains the values of the dictionary as a list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/Rh3egXWb2N"
+94,2021-11-14 05:00:05+00:00,artyudin_nyc,"ListMethod append() 
+add an element at the end of the list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/B8E0L3L1e2"
+95,2021-11-13 05:00:03+00:00,artyudin_nyc,"ListMethod append() 
+add an element at the end of the list 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning https://t.co/ndvANyzmHp"
+96,2021-11-12 17:37:29+00:00,30secondsofcode,min_n: Returns the n minimum elements from the provided list.  #Python https://t.co/ecTt2TPpFs https://t.co/vyPU4e1EcB
+97,2021-11-11 15:54:57+00:00,michaeliscoding,"As mentioned in the documentation, Python applies some cleverness to make appending faster.
+
+When we append to a list, Python allocates more memory for a list than it's needed."
+98,2021-11-10 16:38:04+00:00,SecurityJourney,"Catch up on the latest #AppSec news and subscribe to our YouTube channel. We offer resources that cover the OWASP 2021 list, Python, Ruby along with many other additional languages! https://t.co/bHcwvggDKO 
+
+#SecurityJourney #YouTube #Subscribe #CyberSecurity #AppSecNews https://t.co/O1W6Uw24yw"
+99,2021-11-10 12:37:53+00:00,hacknorris3,"@Sauain Erm list:
+» python
+» js
+» css
+» html
+» plist (ios)
+» shortcuts (ios)
+» tweaks (android and ios)
+» svg
+» bootstrap
+» json db's
+
+Except of it - linux 
+=]"
