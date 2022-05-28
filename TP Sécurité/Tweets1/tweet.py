@@ -6,7 +6,7 @@ tweets = []
 limit = 5000 #le nombre limite des tweets qu'il va recuperer
 
 
-for tweet in sntwitter.TwitterSearchScraper(query).get_items(): #TwitterListPostsScraper fonction utiliser pour lister les tweets poster d'un personne preciser a partir de twitter
+for tweet in sntwitter.TwitterSearchScraper(query).get_items(): #TwitterListPostsScraper fonction utiliser pour lister les tweets poster d'une personne preciser a partir de twitter
     
     if len(tweets) == limit: #len(tweets) c'est le nombre des tweets
         break
