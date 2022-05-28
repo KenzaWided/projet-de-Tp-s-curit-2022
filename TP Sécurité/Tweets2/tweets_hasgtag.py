@@ -6,7 +6,7 @@ tweets = []
 limit = 100 #le nombre limite des tweets qu'il va recuperer
 
 
-for tweet in sntwitter.TwitterHashtagScraper(hachtag).get_items(): #TwitterHachtagScraper fonction utiliser pour lister les postes qui utilise un Hachtag préciser a partir de twitter
+for tweet in sntwitter.TwitterHashtagScraper(hachtag).get_items(): #TwitterHachtagScraper fonction utiliser pour lister les postes qui ont un Hachtag préciser a partir de twitter
     
     if len(tweets) == limit: #len(tweets) c'est le nombre des tweets
         break
